@@ -43,3 +43,9 @@ Aplicación de escritorio desarrollada en Java con NetBeans que permite descarga
 - Barra de progreso durante la descarga
 - Descarga múltiples videos sin reemplazar los anteriores
 - Compatible con cualquier video público de TikTok
+
+## ☝️MODIFICACIÓN 
+Para que se descargue en una ruta especifica cambie en la linea 190 a la ruta deseada.
+
+<img width="902" height="894" alt="image" src="https://github.com/user-attachments/assets/0d636e8b-0963-4cf1-8d51-3aabc9a1a999" />
+
